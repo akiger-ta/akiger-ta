@@ -5,6 +5,6 @@
 
 ## 💻 Languages & Technologies
 
-![](https://raw.githubusercontent.com/akiger-ta/stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/akiger-ta/Stats/blob/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/akiger-ta/stats/master/generated/languages.svg#gh-light-mode-only)
 
